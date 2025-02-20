@@ -1,0 +1,7 @@
+pandas
+openai
+dotenv
+# for testing
+pytest
+PyYAML
+lark
